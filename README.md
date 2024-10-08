@@ -29,7 +29,7 @@ Welcome to the repository, I participated in the prestigious **ABU Robocon 2024*
   - 🧠 AI: YOLOv8
   - 🛠 ROS for robot control and automation
   - **Hardware**: Jetson Orin Nano, Arduino DUE, Intel RealSense D450 camera (for vision)
-  - **Languages**: C++, Bash scripting, Python
+  - **Languages**: C++, Bash scripting
 
 
 ### 🎥 Watch the Robots in Action!
