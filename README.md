@@ -31,4 +31,8 @@ Welcome to the repository, I participated in the prestigious **ABU Robocon 2024*
   - **Hardware**: Jetson Orin Nano, Arduino DUE, Intel RealSense D450 camera (for vision)
   - **Languages**: C++, Bash scripting, Python
 
+
+### 🎥 Watch the Robots in Action!
+Check out our robots in action on YouTube! [Watch here!](https://www.youtube.com/@QBotix_2024)
+
 Feel free to explore the repository for more details on the implementation! 🚀
